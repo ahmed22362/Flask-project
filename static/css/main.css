@@ -1,0 +1,17 @@
+body{
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+.content {
+    margin: 0 auto;
+    width: 300px;
+}
+#table , th , td{
+    border: 1px solid black;
+    border-collapse:collapse;
+    padding: 5px;
+}
+
+#sbt_form{
+    padding: 20px;
+}
